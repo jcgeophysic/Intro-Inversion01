@@ -26,7 +26,7 @@ LATI.	"	6.0"	0:  LATITUDE
 XCOORD.	"	1000"	00:  X COORDINATE								
 YCOORD.	"	1000"	00:  Y COORDINATE								
 ELEV.FT	280.0000:  ELEVATION								
-TD  .FT	6869.0005:  TOTAL DEPTH								
+TD  .FT	6790.0005:  TOTAL DEPTH								
 ~Parameter Information	Block								
 #MNEM.UNIT	Value	Description								
 #---------	--------	---    ---------------------------								
