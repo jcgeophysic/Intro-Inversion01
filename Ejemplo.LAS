@@ -1,7 +1,7 @@
-~Version Inf	ormation									
+~Version Information									
 VERS.		2.0:   CWLS log ASCII Standard -VERSION 2.0								
 WRAP.		NO:   One line per depth step								
-~Well Inform	ation Block									
+~Well Information Block									
 #MNEM.UNIT	Data T	ype    Information								
 #---------	--------	---    ---------------------------								
 STRT.F		3380.0000:								
@@ -25,12 +25,12 @@ LONG.	"	-72.8"	9:  LONGITUDE
 LATI.	"	6.0"	0:  LATITUDE								
 XCOORD.	"	1000"	00:  X COORDINATE								
 YCOORD.	"	1000"	00:  Y COORDINATE								
-ELEV.FT	2	80.0000:  ELEVATION								
-TD  .FT	67	90.0005:  TOTAL DEPTH								
-~Parameter I	nformation	Block								
+ELEV.FT	280.0000:  ELEVATION								
+TD  .FT	6869.0005:  TOTAL DEPTH								
+~Parameter Information	Block								
 #MNEM.UNIT	Value	Description								
 #---------	--------	---    ---------------------------								
-~Curve Infor	mation Bloc	k								
+~Curve Information Block								
 #MNEM.UNIT		API CODE     Curve Description								
 #---------		-----------    ---------------------------								
 DEPTH.F		00 000 000 000:  Index Curve								
