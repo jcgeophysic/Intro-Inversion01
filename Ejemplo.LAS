@@ -2,7 +2,7 @@
 VERS.		2.0:   CWLS log ASCII Standard -VERSION 2.0								
 WRAP.		NO:   One line per depth step								
 ~Well Information Block									
-#MNEM.UNIT	Data T	ype    Information								
+#MNEM.UNIT	Data Type    Information								
 #---------	--------	---    ---------------------------								
 STRT.F		3380.0000:								
 STOP.F		6790:00:00								
